@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="message_toast">Proceso Exitoso</string>
+</resources>
