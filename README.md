@@ -3,6 +3,10 @@
 
 Clonar el repositorio e instalar las dependencias para su correcta ejecución
 
+## Versiones
+
+- React Native --> v0.66.4
+- Node --> v16.14.0
 
 ## Instalación
 
